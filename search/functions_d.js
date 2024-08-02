@@ -1,0 +1,11 @@
+var searchData=
+[
+  ['remove_0',['remove',['../classHelper.html#ab7361b3d271e249d16e4e66dd319d6a0',1,'Helper']]],
+  ['reset_1',['reset',['../classIUpdater.html#abd388fa6ea642d3914a6803502283ca2',1,'IUpdater::reset()'],['../classSDCard__Updater.html#a44bc6d9358e7b6214b0525cf2fa81340',1,'SDCard_Updater::reset()']]],
+  ['resubscribe_5ftopic_2',['Resubscribe_Topic',['../classAPI__Implementation.html#a415ac98f635165693b9ece50804a44e5',1,'API_Implementation::Resubscribe_Topic()'],['../classOTA__Firmware__Update.html#a66dd8a8f2d478dcc34c70f597f3f0c7d',1,'OTA_Firmware_Update::Resubscribe_Topic()'],['../classServer__Side__RPC.html#a5d3480df06a318be850548452d19e49f',1,'Server_Side_RPC::Resubscribe_Topic()'],['../classShared__Attribute__Update.html#ac09a99ca6491be6dbe628b8d69adb069',1,'Shared_Attribute_Update::Resubscribe_Topic()']]],
+  ['rpc_5fcallback_3',['RPC_Callback',['../classRPC__Callback.html#a5415246529772e553b4a14870e8e99d5',1,'RPC_Callback::RPC_Callback()=default'],['../classRPC__Callback.html#adfda09d43b7819a6cefafb96c277c4dd',1,'RPC_Callback::RPC_Callback(char const *const methodName, function cb)']]],
+  ['rpc_5frequest_4',['RPC_Request',['../classClient__Side__RPC.html#a575d65189bd82c16bda0b3440dedf65c',1,'Client_Side_RPC']]],
+  ['rpc_5frequest_5fcallback_5',['RPC_Request_Callback',['../classRPC__Request__Callback.html#a40298af02f19f2470af660f3b043feb9',1,'RPC_Request_Callback::RPC_Request_Callback()=default'],['../classRPC__Request__Callback.html#a635604d9ee8cb9f1b6a06c08739515cc',1,'RPC_Request_Callback::RPC_Request_Callback(char const *const methodName, function received_callback, JsonArray const *const parameters=nullptr, uint64_t const &amp;timeout_microseconds=0U, Callback_Watchdog::function timeout_callback=nullptr)']]],
+  ['rpc_5fsubscribe_6',['RPC_Subscribe',['../classServer__Side__RPC.html#a42d3e8f09125bd291f1db685d0c7a0f9',1,'Server_Side_RPC::RPC_Subscribe(InputIterator const &amp;first, InputIterator const &amp;last)'],['../classServer__Side__RPC.html#a64f8d5ac37ad88f6fa7437fe2e2ee25e',1,'Server_Side_RPC::RPC_Subscribe(RPC_Callback const &amp;callback)']]],
+  ['rpc_5funsubscribe_7',['RPC_Unsubscribe',['../classServer__Side__RPC.html#ac9af6e8232dd064f44e43a74aa47f14c',1,'Server_Side_RPC']]]
+];
