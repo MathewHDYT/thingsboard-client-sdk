@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classIUpdater.html" title="Updater interface that contains the method that a class that can be used to flash given binary data o..." alt="" coords="5,42,77,67"/>
+<area shape="rect" id="node2" href="$classEspressif__Updater.html" title="IUpdater implementation that uses the Over the Air Update API from Espressif (https://docs...." alt="" coords="148,5,285,45"/>
+<area shape="rect" id="node3" href="$classSDCard__Updater.html" title="IUpdater implementation that uses the c fopen function (https://cplusplus.com/reference/cstdio/fopen/..." alt="" coords="125,70,308,95"/>
+</map>

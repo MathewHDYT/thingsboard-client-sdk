@@ -1,0 +1,5 @@
+<map id="IUpdater" name="IUpdater">
+<area shape="rect" id="node1" title="Updater interface that contains the method that a class that can be used to flash given binary data o..." alt="" coords="130,5,202,31"/>
+<area shape="rect" id="node2" href="$classEspressif__Updater.html" title="IUpdater implementation that uses the Over the Air Update API from Espressif (https://docs...." alt="" coords="5,79,143,119"/>
+<area shape="rect" id="node3" href="$classSDCard__Updater.html" title="IUpdater implementation that uses the c fopen function (https://cplusplus.com/reference/cstdio/fopen/..." alt="" coords="167,86,349,111"/>
+</map>

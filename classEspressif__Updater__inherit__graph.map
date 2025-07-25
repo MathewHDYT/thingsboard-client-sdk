@@ -1,0 +1,4 @@
+<map id="Espressif_Updater&lt; Logger &gt;" name="Espressif_Updater&lt; Logger &gt;">
+<area shape="rect" id="node1" title="IUpdater implementation that uses the Over the Air Update API from Espressif (https://docs...." alt="" coords="5,79,143,119"/>
+<area shape="rect" id="node2" href="$classIUpdater.html" title="Updater interface that contains the method that a class that can be used to flash given binary data o..." alt="" coords="38,5,110,31"/>
+</map>
